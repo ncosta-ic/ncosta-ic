@@ -1,16 +1,16 @@
-### Hi there 👋
+Noé Costa
+===
 
-<!--
-**ncosta-ic/ncosta-ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="./img/lala.png" height="32" hspace="5" style="vertical-align:middle"> Developer at <a href="https://github.com/Icinga" target="_blank">Icinga</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?
+username=Icinga&repo=Icinga2&title_color=00C2ED&text_color=ffffff&icon_color=0081a6&bg_color=06062C&hide_border=true
+&locale=en" hspace="5" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?
+username=Icinga&repo=icingadb&title_color=00C2ED&text_color=ffffff&icon_color=0081a6&bg_color=06062C&hide_border=true
+&locale=en" hspace="5" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?
+username=Icinga&repo=icinga-notifications&title_color=00C2ED&text_color=ffffff&icon_color=0081a6&bg_color=06062C
+&hide_border=true&locale=en" hspace="5" />
+</p>
